@@ -2,7 +2,7 @@
 
 ## Using Ensemble Machine Learning for Road Safety Analysis
 
-**Developed by:** Srinivas & Sohan  
+**Developed by:** Sohan & Srinivas  
 **Institution:** Vellore Institute of Technology, Andhra Pradesh  
 **Department:** Computer Science & Engineering  
 **Academic Year:** 2025-2026
